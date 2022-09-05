@@ -5,11 +5,11 @@ para mensagens instantâneas entre dois usuários aleatórios.
 
 ### Desenvolvedores
 
- - Viviane Helena S. **| GITHUB**: vivihsa <br> 
- - William Carvalho **| GITHUB**: Willzeraxx<br>
- - Kaleo Bonatto **| GITHUB**:kaleobonatto<br>
- - Vinicius Nogueira **| GITHUB**: vininogs<br> 
- - David Freire **| GITHUB**:DavidFreireDaSilva<br>
- - Abraão Menezes **| GITHUB**: abraaomenezes21<br>
+ - Viviane Helena S.  [**GITHUB**](https://github.com/vivihsa/)<br> 
+ - William Carvalho [**GITHUB**](https://github.com/Willzeraxx/)<br>
+ - Kaleo Bonatto [**GITHUB**](https://github.com/kaleobonatto/)<br>
+ - Vinicius Nogueira [**GITHUB**](https://github.com/vininogs/)<br> 
+ - David Freire [**GITHUB**](https://github.com/DavidFreireDaSilva/)<br>
+ - Abraão Menezes [**GITHUB**](https://github.com/abraaomenezes21/)<br>
 
 
